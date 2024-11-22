@@ -32,7 +32,7 @@ class SubTarea {
         completada = true;
         System.out.println("Subtarea '" + descripcion + "' completada.");
         return true;
-    }
+    }  //dd
 }
 
 // Clase que representa una tarea principal
