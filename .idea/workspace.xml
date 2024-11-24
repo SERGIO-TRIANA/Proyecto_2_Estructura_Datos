@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a360e5e-d2d9-4122-bdd8-6f7f0ce40c95" name="Changes" comment="Elimino gestor de tareas">
-      <change afterPath="$PROJECT_DIR$/Proyecto_emocional2/Proyecto_emocional2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto_emocional2/src/EncuestasEstudiantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto_emocional2/src/Estudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="0a360e5e-d2d9-4122-bdd8-6f7f0ce40c95" name="Changes" comment="Proyecto por modulos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;SERGIO-TRIANA&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SERGIO-TRIANA"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SERGIO-TRIANA/Proyecto_2_Estructura_Datos.git&quot;,
-    &quot;accountId&quot;: &quot;fc3439c6-f9a4-43d6-9be4-8768f8caa858&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SERGIO-TRIANA/Proyecto_2_Estructura_Datos.git",
+    "accountId": "fc3439c6-f9a4-43d6-9be4-8768f8caa858"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,8 +46,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.EncuestasApp.executor": "Run",
-    "Application.EncuestasEstudiantes.executor": "Run",
-    "Application.InterfazGrafica.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -62,7 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/rodri/Documents/INGENERIA INFORMATICA/TERCER SEMESTRE/Estructuras de Datos Aplicadas/Codigo/Proyecto_2_Estructura_Datos/Proyecto_emocional2/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/rodri/Documents/INGENERIA INFORMATICA/TERCER SEMESTRE/Estructuras de Datos Aplicadas/Codigo/Proyecto_2_Estructura_Datos/Proyecto_emocional/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,8 +78,7 @@
       <updated>1731268937424</updated>
       <workItem from="1731268938462" duration="2000" />
       <workItem from="1731354212519" duration="620000" />
-      <workItem from="1732237397942" duration="4693000" />
-      <workItem from="1732398821880" duration="2574000" />
+      <workItem from="1732237397942" duration="3021000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <option name="closed" value="true" />
@@ -111,15 +104,7 @@
       <option name="project" value="LOCAL" />
       <updated>1732238420664</updated>
     </task>
-    <task id="LOCAL-00004" summary="Elimino gestor de tareas">
-      <option name="closed" value="true" />
-      <created>1732241039624</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1732241039624</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,8 +125,7 @@
     <MESSAGE value="ok" />
     <MESSAGE value="okdd" />
     <MESSAGE value="Proyecto por modulos" />
-    <MESSAGE value="Elimino gestor de tareas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elimino gestor de tareas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto por modulos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

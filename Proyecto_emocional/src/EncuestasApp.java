@@ -5,7 +5,7 @@ public class EncuestasApp {
         GestorEncuestas gestor = new GestorEncuestas();
         Scanner scanner = new Scanner(System.in);
 
-        // Agregar algunos estudiantes
+        // Agregar algunos estudiantes hola
         gestor.agregarEstudiante(1, "Juan Pérez");
         gestor.agregarEstudiante(2, "María López");
 
